@@ -892,7 +892,7 @@ under the License.
     <mavenPluginToolsVersion>3.5.2</mavenPluginToolsVersion>
     <!-- don't fail check for some rules that are too hard to enforce (could even be told broken for some) -->
     <checkstyle.violation.ignore>RedundantThrows,NewlineAtEndOfFile,ParameterNumber,MethodLength,FileLength</checkstyle.violation.ignore>
-    <source-date-epoch>1569082516</source-date-epoch><!-- 2019-09-21T16:15:16Z -->
+    <project.build.outputTimestamp>2019-09-21T16:15:16Z</project.build.outputTimestamp>
   </properties>
 
   <dependencyManagement>
